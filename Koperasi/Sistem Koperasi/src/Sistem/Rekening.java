@@ -18,17 +18,7 @@ public class Rekening {
         return saldo.get();
     }
     
-    //public void setSaldo(double _saldo) { saldo.set(_saldo); }
     
     public Integer getRek() { return rek.get(); }
     
-    //public void setRek(int _rek) { rek.set(_rek); }
-    
-    //public void tambahSaldo(double _jumlah){ saldo.set(this.saldo.get() + _jumlah); }
-    
-    //public void tarikSaldo(double _jumlah){ saldo.set(this.saldo.get() - _jumlah); }
-    
-    //public IntegerProperty rekProperty(){ return rek; }
-    
-    //public DoubleProperty saldoProperty(){ return saldo; }
 }
