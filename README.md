@@ -1,4 +1,4 @@
-# Proyek-Tugaas-Akhir
+# Proyek-Tugas-Akhir
 
 -------------------------------
 - Class Diagram
