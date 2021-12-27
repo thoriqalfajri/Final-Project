@@ -26,15 +26,9 @@ public class Individu extends Nasabah{
         return nik.get();
     }
     
-    //public void setNik(String _nik) { nik.set(_nik); }
     
     public String getNpwp() {
         return npwp.get();
     }
-    
-    //public void setNpwp(String _npwp) { npwp.set(_npwp); }
-    
-    //public StringProperty nikProperty(){ return nik; }
-    
-    //public StringProperty npwpProperty(){ return npwp; }
+
 }
