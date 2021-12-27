@@ -4,6 +4,7 @@ About Project :
 
 Project ini berisi sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
 
+-------------------------------
 Libraries And Tools :
 1. Mysql-connector-java-8.0.25
 2. Scene Builder
