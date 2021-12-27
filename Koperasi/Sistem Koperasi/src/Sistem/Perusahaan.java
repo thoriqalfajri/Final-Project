@@ -23,7 +23,5 @@ public class Perusahaan extends Nasabah{
         return nib.get();
     }
     
-    //public void setNib(String _nib) { nib.set(_nib); }
-    
-    //public StringProperty nibProperty() { return nib; }
+   
 }
