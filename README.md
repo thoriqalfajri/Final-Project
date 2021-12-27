@@ -1,4 +1,10 @@
-# Final Project
+# Final Project Kelompok 1
+
+-------------------------------
+Contributors :
+1. Rafi Dinata - 2017051043
+2. Silvia Rukmana - 2017051047
+3. M. Thoriq Al Fajri - 2057051002
 
 -------------------------------
 - Class Diagram
