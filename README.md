@@ -2,6 +2,7 @@
 
 -------------------------------
 - Class Diagram
+
 ![mermaid-diagram-20211225204434](https://user-images.githubusercontent.com/83461390/147439351-beb846d4-f2a2-4ef9-b79a-d9e937056ced.png)
 
       classDiagram
@@ -31,6 +32,7 @@
           }
          
 - ER Diagram
+
 ![mermaid-diagram-20211225202811](https://user-images.githubusercontent.com/83461390/147439361-e84c1b9d-0a94-4a5a-8535-589122f0dcbf.png)
 
       erDiagram
@@ -55,6 +57,7 @@
                 }
                 
 - Class Diagram for JavaFX and Database
+
 ![mermaid-diagram-20211225202345](https://user-images.githubusercontent.com/83461390/147439376-26b4d501-c9db-4fc8-afac-f5de25abf072.png)
 
       classDiagram
