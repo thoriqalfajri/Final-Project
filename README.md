@@ -1,10 +1,39 @@
 # Final Project Kelompok 1
 
+About Project : 
+
+Project ini berisi sistem yang dapat digunakan untuk merekam transaksi data nasabah di bank, dimana terdapat 2 jenis nasabah yaitu individu dan perusahaan. Setiap nasabah dapat memiliki 1 atau lebih rekening.
+
+Libraries And Tools :
+1. Mysql-connector-java-8.0.25
+2. Scene Builder
+3. Javafx-sdk-17.0.1
+4. XAMPP
+
 -------------------------------
 Contributors :
 1. Rafi Dinata - 2017051043
 2. Silvia Rukmana - 2017051047
 3. M. Thoriq Al Fajri - 2057051002
+
+-------------------------------
+Work Divisions :
+
+1. Rafi Dinata
+      - Form
+      - Controller.java
+      - DBHelper.java
+
+2. Silvia Rukmana
+      - Nasabah.java
+      - Individu.java
+      - Perusahaan.java
+      - Rekening.java
+
+3. M. Thoriq Al Fajri
+      - Class Diagram
+      - ER Diagram
+      - NasabahDataModel.java
 
 -------------------------------
 - Class Diagram
